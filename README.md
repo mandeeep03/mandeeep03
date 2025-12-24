@@ -28,7 +28,6 @@ const mandeep = {
 - 🌱 I'm currently learning **Advanced React Patterns & Microservices**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, React, Node.js, Express**
-- 📫 How to reach me: **your-email@example.com**
 - ⚡ Fun fact: **I think semicolons are optional in JavaScript!**
 
 ---
@@ -85,10 +84,6 @@ const mandeep = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mandeeep03&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mandeeep03&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A177FF&line=A177FF&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -127,45 +122,16 @@ A daily documentation of my learning journey in web development, containing prac
 
 ---
 
-## 📈 More Coming Soon
-
-- 🚀 Full Stack E-Commerce Platform - MERN Stack
-- 📱 Social Media Dashboard - React & TailwindCSS
-- 🔐 Advanced Authentication System - JWT & OAuth
-- 🎮 Interactive Web Games - JavaScript Canvas
-
----
-
 ## 💼 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/mandeep-bhatt-41a85b296/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://dev.to/your-devto" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  <a href="https://github.com/mandeeep03" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 Building a REST API with Express.js
-- 💡 Understanding React Hooks in Depth
-- 🎨 Mastering TailwindCSS for Modern Web Design
-- 🔐 Implementing JWT Authentication in Node.js
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -173,14 +139,6 @@ A daily documentation of my learning journey in web development, containing prac
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mandeeep03/mandeeep03/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
