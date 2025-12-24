@@ -117,7 +117,7 @@ JSON         1 hr 15 mins    █░░░░░░░░░░░░░░░░
 Markdown     50 mins         ░░░░░░░░░░░░░░░░░░░░░    3.6%
 ```
 
----
+```
 
 <div align="center">
 
@@ -128,3 +128,4 @@ Markdown     50 mins         ░░░░░░░░░░░░░░░░░
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 </div>
+```
