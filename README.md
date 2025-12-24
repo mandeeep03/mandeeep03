@@ -13,17 +13,6 @@
 
 ## 🚀 About Me
 
-```javascript
-const mandeep = {
-    location: "Bathinda, Punjab, India 🇮🇳",
-    currentFocus: "Full Stack Development",
-    learning: ["React.js", "Node.js", "Express.js", "MongoDB"],
-    interests: ["Web Development", "REST APIs", "UI/UX Design"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄",
-    askMeAbout: ["Web Dev", "Tech", "APIs", "JavaScript"]
-};
-```
-
 - 🔭 I'm currently working on **MERN Stack Projects**
 - 🌱 I'm currently learning **Advanced React Patterns & Microservices**
 - 👯 I'm looking to collaborate on **Open Source Projects**
@@ -46,9 +35,7 @@ const mandeep = {
 ### Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
@@ -57,7 +44,6 @@ const mandeep = {
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
 </p>
 
