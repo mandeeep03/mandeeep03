@@ -68,14 +68,6 @@ A daily documentation of my learning journey in web development, containing prac
 
 ---
 
-## 📊 GitHub Stats
-
-![Mandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandeeep03&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mandeeep03&layout=compact&theme=radical)
-
----
-
 ## 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
