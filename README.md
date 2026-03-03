@@ -1,15 +1,6 @@
 # Mandeep
 
-Computer Science student focused on full-stack web development with the MERN stack. I build real-world applications while continuously learning modern development practices and system design principles.
-
----
-
-## About Me
-
-- Currently working on **MERN Stack Projects**
-- Learning **Advanced React Patterns and Microservices Architecture**
-- Open to collaborating on **Open Source Projects**
-- Ask me about **JavaScript, React, Node.js, Express**
+Computer Science student focused on  Deep Learning and Backend. I build real-world applications while continuously learning modern development practices and system design principles.
 
 ---
 
